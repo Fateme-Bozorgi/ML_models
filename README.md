@@ -2,7 +2,7 @@
 
 ## Regression Model Evaluation: Decision Tree, Random Forest, and Linear Regression  
 
-This repository presents a practical implementation of three distinct regression models to predict resistivity values based on geological features. The models included in this comparison are:  
+This repository presents a practical implementation of three distinct regression models to predict resistivity values based on petrophysical features. The models included in this comparison are:  
 
 - **Decision Tree Regression**  
 - **Random Forest Regression**  
