@@ -14,4 +14,4 @@ The MSE values for each model are displayed, offering quantifiable insights into
 
 ### Visual Comparisons  
 
-Scatter plots illustrate the relationship between actual and predicted values, enabling visual assessment of model performance across models. These plots help to understand how closely the predicted resistivity values align with the actual ones.  
+Scatter plots illustrate the relationship between actual and predicted values, enabling visual assessment of model performance between models. These plots help to understand how closely the predicted resistivity values align with the actual ones.  
